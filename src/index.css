@@ -12,8 +12,8 @@
 }
 body{
     font-family: 'Libre Baskerville', serif;
-    background: rgb(149,148,148);
-    background: radial-gradient(circle, rgba(149,148,148,1) 0%, rgba(0,0,0,1) 100%);
+    background: rgb(255, 255, 255);
+    background: radial-gradient(circle, rgba(149,148,148,1) 0%, rgba(0, 0, 0, 0) 100%);
 }
 .row{
     display: flex;
