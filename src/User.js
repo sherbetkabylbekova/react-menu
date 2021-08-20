@@ -1,11 +1,20 @@
-import React from 'react';
+import users from "./users.js"
 
-const User = (props) => {
+
+const User = () => {
     return (
         <div>
-            <h4> Name: {props.name}</h4>
-            <h5> Job: {props.job}</h5>
+            {
+                users.map((el) => (
+                    <>
+                        <h5>{el.name}</h5>
+                        <h5>{el.email}</h5>
+                    </>
+                )
+                )
+            }
         </div>
     )
 }
+
 export default User
