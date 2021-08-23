@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b15e859e-60db-4671-930e-1e30f540a52b" name="Default Changelist" comment="react-menu">
-      <change afterPath="$PROJECT_DIR$/src/Game.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Todos.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/users.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/User.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/User.js" afterDir="false" />
+    <list default="true" id="b15e859e-60db-4671-930e-1e30f540a52b" name="Default Changelist" comment="games">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Game.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Game.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +40,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -57,7 +56,9 @@
       <option name="presentableId" value="Default" />
       <updated>1629212382233</updated>
       <workItem from="1629212386990" duration="151000" />
-      <workItem from="1629253289891" duration="24715000" />
+      <workItem from="1629253289891" duration="25105000" />
+      <workItem from="1629428394992" duration="2421000" />
+      <workItem from="1629431885469" duration="5427000" />
     </task>
     <task id="LOCAL-00001" summary="react-menu">
       <created>1629268394975</created>
@@ -66,7 +67,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629268394975</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="games">
+      <created>1629426398887</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1629426398887</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,6 +94,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="react-menu" />
-    <option name="LAST_COMMIT_MESSAGE" value="react-menu" />
+    <MESSAGE value="game" />
+    <MESSAGE value="games" />
+    <option name="LAST_COMMIT_MESSAGE" value="games" />
   </component>
 </project>
